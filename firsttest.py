@@ -1,5 +1,5 @@
 import os
-print("Does this work?")
+print("Does work?")
 
 def add(a, b):
     x = a + b
