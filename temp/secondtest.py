@@ -1,5 +1,5 @@
 import os
-print("ok")
+print("okok")
 def divide(a, b):
     y = a / b
     return y
